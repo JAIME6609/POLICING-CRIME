@@ -1,0 +1,5 @@
+area_group,n_records,observed_event_rate,mean_predicted_risk,top20_selection_rate,true_positive_rate,false_positive_rate,mean_patrol_latency,mean_communication_availability,equalized_odds_gap
+G1 low vulnerability,1404,0.2949,0.3604,0.0769,0.2609,0.0,0.5276,0.7994,0.0609
+G2 moderate-low,1404,0.5876,0.6429,0.1481,0.2521,0.0,0.5625,0.7262,0.0697
+G3 moderate-high,1404,0.76,0.7791,0.3077,0.4049,0.0,0.6073,0.7041,0.0831
+G4 high vulnerability,1404,0.7251,0.7554,0.2678,0.3694,0.0,0.6735,0.6521,0.0475
