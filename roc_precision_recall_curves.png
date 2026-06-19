@@ -1,0 +1,4 @@
+model,roc_auc,average_precision,brier_score,precision_top_20,recall_top_20,f1_top_20
+Logistic regression,0.9462,0.9718,0.0769,1.0,0.3381,0.5054
+XGBoost,0.9458,0.9712,0.0767,0.9991,0.3378,0.5049
+Random forest,0.9458,0.9708,0.0861,0.9991,0.3378,0.5049
